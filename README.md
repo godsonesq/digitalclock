@@ -1,2 +1,2 @@
 # digitalclock
-Created with CodeSandbox
+Display digital Clock
